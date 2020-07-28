@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(19, 18, 18, 0.6);
 }
 
 .d-bloc .a-btn:hover,
@@ -442,6 +442,14 @@ nav .caret {
     text-decoration: underline;
 }
 
+.bc {
+    background-color: rgba(165, 147, 99, 0.7)
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 
 .mg-lg {
     margin-top: 10px;
@@ -707,6 +715,7 @@ p {
 }
 
 .social {
+    display: contents;
     max-width: 400px;
     margin: auto auto auto auto;
 }
