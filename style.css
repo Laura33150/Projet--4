@@ -759,7 +759,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #fdfbfb!important;
     font-size: 22px;
 }
 
@@ -1072,10 +1072,15 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+   
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .bc {
+        margin : 0;
+        padding: 0;
     }
 }
