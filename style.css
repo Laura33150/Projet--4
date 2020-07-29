@@ -13,6 +13,10 @@ button {
     outline: none!important;
 }
 
+address {
+    font-size: 17px;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -100,7 +104,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: white;
 }
 
 .d-bloc button:hover {
@@ -193,10 +197,6 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
-.l-bloc {
-    color: rgba(0, 0, 0, .5);
-}
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -444,7 +444,7 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 20px;
     font-size: 15px;
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 .bc {
@@ -720,7 +720,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 19px;
     font-weight: 700;
 }
 
@@ -761,6 +761,11 @@ h4 {
 .white {
     color: #FFFFFF!important;
     font-size: 18px;
+}
+
+.white2 {
+    color: #FFFFFF!important;
+    font-size: 20px;
 }
 
 .portfolio-thumb {
