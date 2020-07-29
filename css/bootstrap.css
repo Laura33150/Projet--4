@@ -2014,6 +2014,16 @@ pre code {
     margin-left: -15px
 }
 
+.col-sm-3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.col-sm-4 {
+    font-size: 17px;
+}
+
 .col-lg-1,
 .col-lg-10,
 .col-lg-11,
