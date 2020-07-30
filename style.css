@@ -766,8 +766,9 @@ h4 {
 }
 
 .white {
-    color: #fdfbfb !important;
+    color: white !important;
     font-size: 22px;
+    font-weight: bold;
 }
 
 
@@ -803,7 +804,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #b9704d;
+    background-color: #965c41;
 }
 
 .tc-white {
